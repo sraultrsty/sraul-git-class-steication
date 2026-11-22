@@ -7,4 +7,4 @@ Three areas in Git:
 3. Repository History
 
 My notes:
-- (Add your first note here during Module 01)
+- wow using git
